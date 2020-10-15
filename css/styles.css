@@ -1,0 +1,53 @@
+body{
+  background-color:#EAF6F6;
+  font-size: 22px;
+  color:#006a71;
+  font-family: cursive;
+}
+h1{
+  font-family: Lucida Console, Courier, monospace;
+  color:#2a3d66;
+}
+h3{
+  color:#2a3d66;
+}
+hr{
+  border-color:grey;
+  border-style:none;
+  border-top-style:dotted;
+  border-width:6px;
+  width:5%;
+}
+img{
+  background-color: blue;
+}
+
+.circular{
+  border-radius: 120px;
+}
+.badminton{
+  background-color: #e5c5b5;
+}
+.dance{
+  background-color: #ffa5a5;
+}
+.art{
+  background-color: #efbbcf;
+}
+.paint{
+  background-color: #ffd5cd;
+}
+#heading{
+  color:#1f3c88;
+}
+img:hover{
+  background-color:grey;
+}
+#heading:hover{
+  color:white;
+  background-color: black;
+}
+h3:hover{
+  background-color: grey;
+  color:darkblue;
+}
